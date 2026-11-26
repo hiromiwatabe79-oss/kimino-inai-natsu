@@ -1,0 +1,11 @@
+{
+  "name": "きみのいない夏",
+  "short_name": "きみのいない夏",
+  "lang": "ja",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#101820",
+  "theme_color": "#101820",
+  "description": "PHSから過去につながる短編ミステリー"
+}
